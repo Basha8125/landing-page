@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Welcome to Octanet</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: url('https://e1.pxfuel.com/desktop-wallpaper/414/513/desktop-wallpaper-colours-plain-backgrounds-web-1920x1024-for-your-mobile-tablet-plain-design.jpg') no-repeat center center fixed;
+      background-size: cover;
+      color: #000;
+    }
+    header {
+      color: white;
+      padding: 20px;
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    h1, p {
+      margin: 0;
+    }
+    .about-section {
+      padding: 20px;
+      margin: 20px;
+      border-radius: 8px;
+      color: #000;
+    }
+    .image-info {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+    .image-container {
+      width: 45%;
+      margin-bottom: 20px;
+    }
+    .image-container img {
+      width: 350px;
+      height: 350px;
+      border: 2px solid #fff;
+      border-radius: 8px;
+      margin-bottom: 10px;
+    }
+    .image-description {
+      width: 45%;
+      margin-bottom: 20px;
+      padding-left: 10px;
+    }
+    .image-info p {
+      color: black;
+    }
+    footer {
+      background-color: rgba(66, 133, 244, 0.8);
+      color: white;
+      text-align: center;
+      padding: 10px;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Welcome to Octanet</h1>
+    <p>Your gateway to innovation!</p>
+  </header>
+
+  <div class="about-section">
+    <h2>About Octanet</h2>
+    <p>
